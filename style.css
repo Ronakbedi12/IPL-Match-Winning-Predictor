@@ -1,0 +1,31 @@
+.stApp {
+    background-color: #fff5e6 !important;
+    background-image: none !important;
+    color: #222222 !important;
+    font-family: 'Segoe UI', sans-serif !important;
+}
+
+.css-18e3th9, .css-1d391kg {
+    background-color: rgba(255, 255, 255, 0.85) !important;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333333 !important;
+}
+
+.stButton>button {
+    background-color: #ff9966 !important;
+    color: white !important;
+    border-radius: 8px !important;
+    padding: 0.5rem 1rem !important;
+    font-weight: bold;
+}
+
+.stTextInput>div>div>input,
+.stSelectbox>div>div>div {
+    background-color: #fffaf0 !important;
+    border-radius: 6px !important;
+}
